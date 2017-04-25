@@ -4,9 +4,7 @@ Script python and template for Zabbix server-status
 Python Pre-reqs:
 
 requests
-
 json
-
 argparse
 
 On Python 2.6:
