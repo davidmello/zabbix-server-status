@@ -4,13 +4,18 @@ Script python and template for Zabbix server-status
 Python Pre-reqs:
 
 requests
+
 json
+
 argparse
 
+
 On Python 2.6:
+
 backport_collections
 
 On Python 2.7:
+
 collections
 
 Comment the lines with backport_collections and uncoment collections, depends on your Python version
