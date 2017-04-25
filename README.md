@@ -1,7 +1,7 @@
 # zabbix-server-status
 Script python and template for Zabbix server-status
 
-Pre-reqs:
+Python Pre-reqs:
 
 requests
 json
